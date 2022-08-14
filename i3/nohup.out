@@ -1,0 +1,2 @@
+config_file: loading file /etc/mpd.conf
+exception: Failed to bind to '[::]:6969'; Failed to bind socket: Address already in use
